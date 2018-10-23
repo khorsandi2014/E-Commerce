@@ -1,16 +1,7 @@
 # Welcome to E-Commerce
 
 
-1. [Welcome](#welcome)
-1. [Your Team](#team)
-1. [Course Overview](#course)
-1. [Course Schedule](#schedule)
-1. [Projects](#projects)
-1. [Tech Requirements](#tech)
-1. [Classroom Tools](#slack)
-1. [Student Expectations](#expectations)
-1. [Office Hours](#hours)
-1. [Student Feedback](#feedback)
+
 
 ---
 
