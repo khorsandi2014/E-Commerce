@@ -5,7 +5,7 @@ Questions? Comments?
 3. Reach out to the Data team on Slack and share your thoughts!
 --->
 
-# Welcome to E-Commerce 
+# Welcome to SM Tool 
 
 > Unit 1, Lesson 1
 
